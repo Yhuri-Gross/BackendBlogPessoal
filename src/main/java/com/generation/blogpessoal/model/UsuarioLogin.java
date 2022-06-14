@@ -34,8 +34,8 @@ public class UsuarioLogin {
 			return usuario;
 		}
 
-		public void setlUsuario(String emailUsuario) {
-			this.usuario = emailUsuario;
+		public void setUsuario(String usuario) {
+			this.usuario = usuario;
 		}
 
 		public String getSenha() {
